@@ -12,7 +12,7 @@ body::before {
   content: " ";
   width: 100%;
   height: 100%;
-  background: url("/../images/pattern-background-desktop.svg") no-repeat;
+  background: url("/images/pattern-background-desktop.svg") no-repeat;
   background-size: contain;
   top: 0px;
 }
@@ -41,7 +41,7 @@ main {
   width: 450px;
   height: 220px;
   top: 0;
-  background: url("/../images/illustration-hero.svg") no-repeat;
+  background: url(/images/illustration-hero.svg) no-repeat;
   position: absolute;
   border-radius: 20px 20px 0 0;
 }
@@ -76,7 +76,7 @@ main {
 .yourTariff:before {
   position: absolute;
   content: " ";
-  background: url("/../images/icon-music.svg") no-repeat;
+  background: url("/images/icon-music.svg") no-repeat;
   width: 48px;
   height: 48px;
   top: 25px;
